@@ -33,17 +33,17 @@
   <dependencies>
     <dependency>
       <groupId>javax.servlet</groupId>
-      <artifactId>javax.servlet</artifactId>
-      <version>3.0.0.v201103241009</version>
+      <artifactId>javax.servlet-api</artifactId>
+      <version>3.0.1</version>
     </dependency>
     <dependency>
       <groupId>org.apache.httpcomponents</groupId>
-      <artifactId>com.springsource.org.apache.httpcomponents.httpcore</artifactId>
+      <artifactId>httpcore</artifactId>
       <version>4.2.1</version>
     </dependency>
     <dependency>
       <groupId>org.apache.httpcomponents</groupId>
-      <artifactId>com.springsource.org.apache.httpcomponents.httpclient</artifactId>
+      <artifactId>httpclient</artifactId>
       <version>4.2.1</version>
     </dependency>
     <dependency>
